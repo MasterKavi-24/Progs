@@ -1,0 +1,95 @@
+{kind: 
+    books#volumes, 
+    totalItems: 1103, 
+    items: 
+    [
+        {
+            kind: books#volume, 
+            id: YsWxDwAAQBAJ, 
+            etag: m2d/yzcigIg, 
+            selfLink: https://www.googleapis.com/books/v1/volumes/YsWxDwAAQBAJ, 
+            volumeInfo: {
+                title: Beginning Flutter, 
+                subtitle: A Hands On Guide to App Development, 
+                authors: [
+                    Marco L. Napoli
+                ], 
+                publisher: John Wiley & Sons, 
+                publishedDate: 2019-09-17, 
+                description: Build your first app in Flutter—no experience necessary! Beginning Flutter: A Hands-On Guide to App Development is the essential resource for both experienced and novice developers interested in getting started with Flutter—the powerful new mobile software development kit. With Flutter, you can quickly and easily develop beautiful, powerful apps for both Android and iOS, without the need to learn multiple programming languages or juggle more than one code base. This book walks you through the process step by step. In Flutter, you’ll be working with Dart, the programming language of choice for top app developers. Even if you’re just starting out in your development career, you can learn Dart quickly, eliminating the barrier to entry for building apps. This is a more efficient way to develop and maintain cross-platform mobile apps, and this book makes the process even easier with a teach-by-example approach. Focus on providing quality content by eliminating the need to switch between multiple coding languages Learn the ins and outs of Flutter, including all the frameworks, widgets, and tools available to developers Accelerate your app development pace, keeping all the code for your cross-platform app in a single code base Leapfrog barriers to entry to the mobile software market, creating your first app with no experience necessary The Flutter community is growing rapidly and transforming the way Android and iOS apps get made. Beginning Flutter allows you to get on board with the latest app development technology, giving your mobile development career a big head start., 
+                industryIdentifiers: [
+                    {
+                        type: ISBN_13, identifier: 9781119550853
+                    }, 
+                    {
+                        type: ISBN_10, identifier: 1119550858
+                    }
+                ], 
+                readingModes: {
+                    text: true, image: true
+                }, 
+                pageCount: 528, 
+                printType: BOOK, 
+                categories: [
+                    Computers
+                ], 
+                maturityRating: NOT_MATURE, 
+                allowAnonLogging: true, 
+                contentVersion: preview-1.0.0, 
+                panelizationSummary: {
+                    containsEpubBubbles: false, 
+                    containsImageBubbles: false
+                }, 
+                imageLinks: {
+                    smallThumbnail: http://books.google.com/books/content?id=YsWxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api, thumbnail: http://books.google.com/books/content?id=YsWxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+                }, 
+                language: en,
+                previewLink: http://books.google.co.in/books?id=YsWxDwAAQBAJ&printsec=frontcover&dq=Flutter&hl=&cd=1&source=gbs_api, 
+                infoLink: https://play.google.com/store/books/details?id=YsWxDwAAQBAJ&source=gbs_api, 
+                canonicalVolumeLink: https://play.google.com/store/books/details?id=YsWxDwAAQBAJ}, 
+                saleInfo: {
+                    country: IN, 
+                    saleability: FOR_SALE, 
+                    isEbook: true, 
+                    listPrice: {
+                        amount: 3551.8, 
+                        currencyCode: INR
+                    }, 
+                    retailPrice: {
+                        amount: 3551.8, currencyCode: INR
+                    }, 
+                    buyLink: https://play.google.com/store/books/details?id=YsWxDwAAQBAJ&rdid=book-YsWxDwAAQBAJ&rdot=1&source=gbs_api, 
+                    offers: [
+                        {
+                            finskyOfferType: 1, 
+                            listPrice: {
+                                amountInMicros: 3551800000, 
+                                currencyCode: INR}, 
+                                retailPrice: {
+                                    amountInMicros: 3551800000, 
+                                    currencyCode: INR
+                                }
+                            }
+                        ]
+                    }, 
+                    accessInfo: {
+                        country: IN, 
+                        viewability: PARTIAL, 
+                        embeddable: true, 
+                        publicDomain: false, 
+                        textToSpeechPermission: ALLOWED, 
+                        epub: {
+                            isAvailable: true, acsTokenLink: http://books.google.co.in/books/download/Beginning_Flutter-sample-epub.acsm?id=YsWxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api
+                        }, 
+                        pdf: {
+                            isAvailable: true, 
+                            acsTokenLink: http://books.google.co.in/books/download/Beginning_Flutter-sample-pdf.acsm?id=YsWxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api
+                        }, 
+                        webReaderLink: http://play.google.com/books/reader?id=YsWxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api, 
+                        accessViewStatus: SAMPLE, 
+                        quoteSharingAllowed: false
+                        }, 
+                        searchInfo: {
+                            textSnippet: This book walks you through the process step by step. In Flutter, you’ll be working with Dart, the programming language of choice for top app developers.
+                        }
+                    },
